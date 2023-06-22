@@ -7179,7 +7179,7 @@ textarea.form-control-lg {
   }
 
   .contact{
-   background-image: url(assets/img/Afro-woman.jpg);
+   background-image: url(/assets/img/Afro-woman.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
